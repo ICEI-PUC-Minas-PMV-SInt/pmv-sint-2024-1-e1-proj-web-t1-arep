@@ -11,11 +11,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Alana Alves
-* Hygor Queiroz
-* Lavi Solace
-* Maria Fernada
-* Rodrigo Alexandre
+* Alana Alves Maia
+* Hygor Queiroz Carvalho
+* Lavi Solace Silva Costa
+* Maria Fernanda Tenório Lins
+* Rodrigo Alexandre Silva Campos Pires
   
 
 ## Orientador
