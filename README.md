@@ -9,7 +9,7 @@
 
 ## Descrição 
 
-O projeto consiste em uma plataforma web que centraliza informações sobre repúblicas, visando auxiliar os novos estudantes a encontrar seu novo lar nesta fase da vida. Além disso, a plataforma oferecerá uma função de prestação de serviços, conectando mão de obra disponível à república desejada, bem como permitindo avaliações das repúblicas e de seus moradores.  
+O projeto consiste em uma plataforma web que centraliza informações sobre repúblicas, visando auxiliar os estudantes a encontrar seu novo lar nesta fase da vida. Além disso, a plataforma oferecerá uma função de prestação de serviços, conectando mão de obra qualificada à república, bem como permitindo avaliações das repúblicas e de seus moradores.
 
 ## 🧠Integrantes  
 
