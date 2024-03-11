@@ -7,9 +7,11 @@
 
 `1º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+## Descrição 
 
-## Integrantes
+"O projeto consiste em uma plataforma web que centraliza informações sobre repúblicas, visando auxiliar os novos estudantes a encontrar seu novo lar nesta fase da vida. Além disso, a plataforma oferecerá uma função de prestação de serviços, conectando mão de obra disponível à república desejada, bem como permitindo avaliações das repúblicas e de seus moradores."  
+
+## 🧠Integrantes  
 
 * Alana Alves Maia
 * Hygor Queiroz Carvalho
@@ -18,11 +20,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Rodrigo Alexandre Silva Campos Pires
   
 
-## Orientador
+## 👨‍🏫Orientador
 
 * Claudio Faria 
 
-# Documentação
+# 💾Documentação
 
 <ol>
 <li><a href="documents/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
