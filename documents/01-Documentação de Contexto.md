@@ -11,6 +11,9 @@ Dessa forma, torna-se um pouco mais dispendioso buscar tal equilíbrio, principa
 
 Foi pensando nessa problemática que ***ARep*** foi criada: uma aplicação que vai te ajudar a encontrar uma república que seja compatível com seu perfil, podendo contar também com contratação de serviços básicos para facilitar sua moradia.
 
+#### Lavi
+Após passar para uma universidade, muitos estudantes enfrentam um desafio: encontrar a moradia ideal durante sua vida universitária. Esse processo, frequentemente, é caracterizado por uma série de obstáculos, especialmente quando se trata de encontrar uma república que atenda às suas necessidades e preferências.
+
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
