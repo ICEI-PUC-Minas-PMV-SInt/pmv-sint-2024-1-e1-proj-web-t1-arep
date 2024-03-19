@@ -28,6 +28,7 @@ Quanto aos estudantes universitários - que são um dos principais públicos na 
 ## Público-Alvo
 
 Estudantes e outras pessoas interessadas em moradia compartilhada e acessível, a fim de  sanar suas necessidades tanto financeiras quanto de localização.
+
 Estudantes e outras pessoas em busca de moradia compartilhada:
 
 Características: Estudantes universitários ou jovens profissionais que procuram moradia compartilhada para reduzir custos ou encontrar um ambiente social.
