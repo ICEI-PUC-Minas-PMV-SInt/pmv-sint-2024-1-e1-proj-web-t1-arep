@@ -2,6 +2,15 @@
 
 [Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
 
+#### Alana
+É sabido que para se ter uma vida saudável há de se encontrar equilíbrio entre trabalho, estudos, lazer, descanso, saúde física e mental.
+
+Além de a vida andar cada vez mais corrida e atribulada de responsabilidades, seu custo tem ficado cada vez mais elevado, sobretudo despesas relacionadas à moradia.
+
+Dessa forma, torna-se um pouco mais dispendioso buscar tal equilíbrio, principalmente se você estiver se mantendo financeiramente sozinho.
+
+Foi pensando nessa problemática que ***ARep*** foi criada: uma aplicação que vai te ajudar a encontrar uma república que seja compatível com seu perfil, podendo contar também com contratação de serviços básicos para facilitar sua moradia.
+
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
