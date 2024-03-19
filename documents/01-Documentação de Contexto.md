@@ -29,14 +29,14 @@ Quanto aos estudantes universitários - que são um dos principais públicos na 
 
 Estudantes e outras pessoas interessadas em moradia compartilhada e acessível, a fim de  sanar suas necessidades tanto financeiras quanto de localização.
 
-##Estudantes e outras pessoas em busca de moradia compartilhada:
+#### Estudantes e outras pessoas em busca de moradia compartilhada:
 
 Características: Estudantes universitários ou jovens profissionais que procuram moradia compartilhada para reduzir custos ou encontrar um ambiente social.
 Necessidades: Buscam por moradia que atenda às suas necessidades de localização, preço acessível e comodidades adequadas.
  Conhecimentos prévios: Podem ter alguma experiência prévia com moradia compartilhada ou estar iniciando essa busca pela primeira vez.
 Experiência com tecnologia: Geralmente familiarizados com o uso de aplicativos e plataformas online para busca de informações e comunicação.
 
-##Proprietários de repúblicas:
+#### Proprietários de repúblicas:
 
 Características: Indivíduos ou grupos responsáveis pela gestão e administração de repúblicas.
 Necessidades: Desejam preencher rapidamente as vagas disponíveis em suas repúblicas, encontrar locatários compatíveis e resolver problemas de manutenção de forma eficiente.
