@@ -20,6 +20,191 @@
 </tbody>
 </table>
 
+## Personas
+
+<table>
+  <tr>
+    <th>Foto</th>
+    <th>Nome</th>
+    <th>Descrição</th>
+    <th>Aplicativos</th>
+    <th>Motivações</th>
+    <th>Frustrações</th>
+    <th>Hobbies, História</th>
+  </tr
+        <tr>
+    <td><img title="Thiago Alexandre" src="https://i.imgur.com/00RuxnP.png"/></td>
+    <td>Thiago Alexandre</td>
+    <td>
+      <ul>
+        <li>35 anos</li>
+        <li>Personal Trainer</li>
+        <li>Mora de aluguel em Belo Horizonte </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Não usa redes sociais</li>
+         </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Cuidar da família</li>
+        <li>Participar da missa</li>
+        <li>Dançar forró</li>
+      </ul>
+    </td>
+    <td>
+      <li>Não terminou o ensino fundamental</li>
+      <li>Não tem casa própria</li>
+      <li>Nunca viu o mar</li>
+    </td>
+    <td>
+      <li>Ver novelas</li>
+      <li>Costurar</li>
+       <li>Sua filha está desempregada desde meados de 2020 e, por isso, tornou-se a principal provedora do sustento da filha e dos dois netos</li>
+          </td>
+  </tr>
+  <tr>
+    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
+    <td> xxx </td> <!-- nome -->
+    <td>
+      <ul>
+        <li> xxx </li> <!-- idade -->
+        <li> xxx </li> <!-- profição -->
+        <li> xxx </li> <!-- moradia -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+      </ul>
+    </td>
+    <td>
+      <li> xxx </li> <!-- Frustações -->
+      <li> xxx </li> <!-- Frustações -->
+     </td>
+    <td>
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+    </td>
+  </tr>
+    <tr>
+    <tr>
+    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
+    <td> xxx </td> <!-- nome -->
+    <td>
+      <ul>
+        <li> xxx </li> <!-- idade -->
+        <li> xxx </li> <!-- profição -->
+        <li> xxx </li> <!-- moradia -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+      </ul>
+    </td>
+    <td>
+      <li> xxx </li> <!-- Frustações -->
+      <li> xxx </li> <!-- Frustações -->
+     </td>
+    <td>
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+    </td>
+  </tr>
+    <tr>
+    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
+    <td> xxx </td> <!-- nome -->
+    <td>
+      <ul>
+        <li> xxx </li> <!-- idade -->
+        <li> xxx </li> <!-- profição -->
+        <li> xxx </li> <!-- moradia -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+      </ul>
+    </td>
+    <td>
+      <li> xxx </li> <!-- Frustações -->
+      <li> xxx </li> <!-- Frustações -->
+     </td>
+    <td>
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+    </td>
+  </tr>
+    <tr>
+    <tr>
+    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
+    <td> xxx </td> <!-- nome -->
+    <td>
+      <ul>
+        <li> xxx </li> <!-- idade -->
+        <li> xxx </li> <!-- profição -->
+        <li> xxx </li> <!-- moradia -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> xxx </li> <!-- aplicativos utilizados -->
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+        <li> xxx </li> <!-- Motivações -->
+      </ul>
+    </td>
+    <td>
+      <li> xxx </li> <!-- Frustações -->
+      <li> xxx </li> <!-- Frustações -->
+     </td>
+    <td>
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+      <li> xxx </li> <!-- Hobbies, História -->
+    </td>
+  </tr>
+</table>
+
 
 ## Histórias de Usuários
 
