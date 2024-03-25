@@ -1,24 +1,10 @@
 # Especificação do Projeto
 
+## Estado da Arte
+Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas funcionalidades básicas ainda não são atendidas. É crucial para a segurança dos usuários implementar mecanismos de identificação por meio de filtros, tanto para os usuários que buscam repúblicas quanto para as próprias repúblicas.
+
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil Nome </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>...</td>
-</tr>
-</tbody>
-</table>
 
 ## Personas
 
@@ -210,17 +196,22 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
+Com base na análise das personas identificadas as seguintes histórias de usuários:
 
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
+|EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `SOLUCIONAR/PROBLEMA`|
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Usuário ADM | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
+| Usuário Demandante | Encontrar Repúblicas confiaves e traquila | Conseguir ter tranquilidade e dedicar ao trabalho/estudos |
+
+O quadro abaixo apresenta uma breve definição de cada perfil: 
+
+|Perfil| Descrição
+|--------------------|------------------------------------|
+| Administrador|	Servidor da MyRep com grau máximo de visualização e controle do sistema|
+| Usuário Morador ADM | Pessoa que administra a republica |
+| Usuário Demandante | Pessoa que busca por uma república |
+| Usuário Morador | Pessoa que reside em uma república |
+| Usuario PSG | Prestador de Serviços Gerais |
 
 ## Requisitos do Projeto
 
