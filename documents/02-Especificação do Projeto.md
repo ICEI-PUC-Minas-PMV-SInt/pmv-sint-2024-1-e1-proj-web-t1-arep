@@ -223,7 +223,7 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 |EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `SOLUCIONAR/PROBLEMA`|
 |--------------------|---------------------------|----------------------------------|
 | Thiago Alexandre | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
-| Usuário Demandante | Encontrar Repúblicas confiaves e traquila | Conseguir ter tranquilidade e dedicar ao trabalho/estudos |
+| | Encontrar Repúblicas confiaves e traquila | Conseguir ter tranquilidade e dedicar ao trabalho/estudos |
 
 O quadro abaixo apresenta uma breve definição de cada perfil: 
 
