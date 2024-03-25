@@ -12,13 +12,13 @@ Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas
 
  <tbody>
   <tr>
-    <td >O WebQuarto
+    <td >O WebQuarto é uma plataforma para anucios de quartos.
 
 Fonte: https://www.cliquealimentos.com.br/Inicial.</td>
   </tr>
 
   <tr>
-    <td > A Republika, 
+    <td > A Republika ajuda estudandes a encontrar uma república para morar.  
 
 Fonte: https:https://apprepublika.com/</td>
   </tr>
