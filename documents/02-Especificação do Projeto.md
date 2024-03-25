@@ -62,15 +62,15 @@ Fonte: https:https://apprepublika.com/</td>
       <ul>
         <li>Construir sua família</li>
         <li>Estudar Yoga</li>
-        <li>Crecimento Proficional</li>
+        <li>Crecimento Profissional</li>
       </ul>
     </td>
     <td>
-      <li>Não se tornou Goleiro Proficional</li>
+      <li>Não se tornou Goleiro Profissional</li>
       <li>Não tem casa própria ainda</li>
     </td>
     <td>
-      <li>Fazeri Yoga</li>
+      <li>Fazer Yoga</li>
       <li>Treinar ao ar livre</li>
        <li>Saiu da casa dos pais para criar sua carreira na capital, alugou um apartamento e criou sua república para baratear os custos com moradia</li>
           </td>
