@@ -44,25 +44,27 @@
     </td>
     <td>
       <ul>
-        <li>Não usa redes sociais</li>
+        <li>Facebook</li>
+        <li>Instagram</li>
+        <li>YouTube</li>
+        <li>ifood</li>
          </ul>
     </td>
     <td>
       <ul>
-        <li>Cuidar da família</li>
-        <li>Participar da missa</li>
-        <li>Dançar forró</li>
+        <li>Construir sua família</li>
+        <li>Estudar Yoga</li>
+        <li>Crecimento Proficional</li>
       </ul>
     </td>
     <td>
-      <li>Não terminou o ensino fundamental</li>
-      <li>Não tem casa própria</li>
-      <li>Nunca viu o mar</li>
+      <li>Não se tornou Goleiro Proficional</li>
+      <li>Não tem casa própria ainda</li>
     </td>
     <td>
-      <li>Ver novelas</li>
-      <li>Costurar</li>
-       <li>Sua filha está desempregada desde meados de 2020 e, por isso, tornou-se a principal provedora do sustento da filha e dos dois netos</li>
+      <li>Fazeri Yoga</li>
+      <li>Treinar ao ar livre</li>
+       <li>Saiu da casa dos pais para criar sua carreira na capital, alugou um apartamento e criou sua república para baratear os custos com moradia</li>
           </td>
   </tr>
   <tr>
