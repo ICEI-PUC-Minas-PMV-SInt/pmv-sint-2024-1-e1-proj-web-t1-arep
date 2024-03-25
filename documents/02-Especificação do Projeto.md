@@ -3,6 +3,28 @@
 ## Estado da Arte
 Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas funcionalidades básicas ainda não são atendidas. É crucial para a segurança dos usuários implementar mecanismos de identificação por meio de filtros, tanto para os usuários que buscam repúblicas quanto para as próprias repúblicas.
 
+<table>
+ <thead>
+  <tr>
+   <th>Descrição</th>
+  </tr>
+ </thead>
+
+ <tbody>
+  <tr>
+    <td >O WebQuarto
+
+Fonte: https://www.cliquealimentos.com.br/Inicial.</td>
+  </tr>
+
+  <tr>
+    <td > A Republika, 
+
+Fonte: https:https://apprepublika.com/</td>
+  </tr>
+
+</table>
+
 ## Perfis de Usuários
 
 
