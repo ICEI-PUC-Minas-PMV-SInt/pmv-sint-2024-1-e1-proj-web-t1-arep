@@ -109,37 +109,37 @@ Fonte: https:https://apprepublika.com/</td>
   </tr>
     <tr>
     <tr>
-    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
-    <td> xxx </td> <!-- nome -->
+    <td><img title="LeticiaRocca" src="https://r2.easyimg.io/582mq6vv0/leticia.jpg"/></td> <!--nome / foto colocar endereço url -->
+    <td>Letícia Rocca</td> <!-- nome -->
     <td>
       <ul>
-        <li> xxx </li> <!-- idade -->
-        <li> xxx </li> <!-- profição -->
-        <li> xxx </li> <!-- moradia -->
+        <li>17 anos</li>
+        <li>Estudante de Arquitetura</li>
+        <li>Como saiu do interior para morar na capital, mora atualmente de favor na casa de um parente distante. Está procurando um local para morar.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li>Instagram</li>
+        <li>WhatsApp</li>
+        <li>TikTok</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
+        <li>Crescer profissionalmente e se tornar uma arquiteta de renome</li>
+        <li>Quer fazer amizades e se divertir durante o período da faculdade</li>
+        <li>Encontrar um trabalho, economizar e começar a juntar dinheiro</li>
       </ul>
     </td>
     <td>
-      <li> xxx </li> <!-- Frustações -->
-      <li> xxx </li> <!-- Frustações -->
+      <li>Sente falta dos pais e dos amigos</li>
+      <li>Sente-se sozinha e perdida na cidade grande</li>
+      <li>Precisa economizar pois ainda não encontrou trabalho, ainda é sustentada pelos pais</li>
      </td>
     <td>
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
+      <li>Gosta muito de desenhar, ler livros e ir ao cinema</li>
+      <li>Sempre sonhou em ser uma grande arquiteta, mas na sua cidade não possuía nenhuma opção de curso</li>
     </td>
   </tr>
     <tr>
@@ -224,6 +224,10 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 | | Encontrar Repúblicas confiaves e traquila | Conseguir ter tranquilidade e dedicar ao trabalho/estudos |
 | Julio Almeida | Divulgar vagas de acordo com o perfil do usuário | Encontrar a pessoa adequada para a vaga |
 | Julio Almeida | Encontrar pessoas confiáveis para as vagas | Ter mais segurança para os moradores |
+| Letícia Rocca | Encontrar uma república | Ter onde morar de forma mais econômica |
+| Letícia Rocca | Morar perto da faculdade | Economizar tempo e gastos com transporte |
+| Letícia Rocca | Morar com outras pessoas | Não se sentir tão só |
+| Letícia Rocca | Criar laços estreitos com colegas da mesma área de Arquitetura | Formar uma boa rede de contatos e de amizade |
 
 
 O quadro abaixo apresenta uma breve definição de cada perfil: 
