@@ -76,37 +76,35 @@ Fonte: https:https://apprepublika.com/</td>
           </td>
   </tr>
   <tr>
-    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
-    <td> xxx </td> <!-- nome -->
+    <td><img title=" Julio Almeida " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
+    <td> Julio Almeida </td> 
     <td>
       <ul>
-        <li> xxx </li> <!-- idade -->
-        <li> xxx </li> <!-- profição -->
-        <li> xxx </li> <!-- moradia -->
+        <li> 30 anos </li> 
+        <li> Estudante </li> 
+        <li> Responsável por uma república no Rio de Janeiro </li> 
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> Facebook </li> 
+        <li> Whatsapp </li> 
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
+        <li> Estudos </li> 
+        <li> Dar aula </li> 
+        <li> Vida estável </li> 
       </ul>
     </td>
     <td>
-      <li> xxx </li> <!-- Frustações -->
-      <li> xxx </li> <!-- Frustações -->
+      <li> Dificuldade de divulgar vagas de sua república </li>
+      <li> Colegas de casa muito diferentes </li> 
      </td>
     <td>
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
+      <li> Pedalar </li> 
+      <li> Se tornou responsável pela república onde vive após problemas com outros moradores </li> 
     </td>
   </tr>
     <tr>
@@ -224,6 +222,9 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 |--------------------|---------------------------|----------------------------------|
 | Thiago Alexandre | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
 | | Encontrar Repúblicas confiaves e traquila | Conseguir ter tranquilidade e dedicar ao trabalho/estudos |
+| Julio Almeida | Divulgar vagas de acordo com o perfil do usuário | Encontrar a pessoa adequada para a vaga |
+| Julio Almeida | Encontrar pessoas confiáveis para as vagas | Ter mais segurança para os moradores |
+
 
 O quadro abaixo apresenta uma breve definição de cada perfil: 
 
