@@ -185,37 +185,40 @@ Fonte: https:https://apprepublika.com/</td>
   </tr>
     <tr>
     <tr>
-    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
-    <td> xxx </td> <!-- nome -->
+    <td><img title=" Isabel Sainz " src="https://i.imgur.com/2xQ5vNv.jpeg"/></td> <!--nome / foto colocar endereço url -->
+    <td> Isabel Sainz </td> <!-- nome -->
     <td>
       <ul>
-        <li> xxx </li> <!-- idade -->
-        <li> xxx </li> <!-- profição -->
-        <li> xxx </li> <!-- moradia -->
+        <li> 27 </li> <!-- idade -->
+        <li> Mestranda em Biomedicina </li> <!-- profição -->
+        <li> Moradora de uma republica em Recife - PE </li> <!-- moradia -->
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> Linkedin </li> <!-- aplicativos utilizados -->
+        <li> Instagram </li> <!-- aplicativos utilizados -->
+        <li> X </li> <!-- aplicativos utilizados -->
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
+        <li> Um ambiente favorável ao estudo e convivência. </li> <!-- Motivações -->
+        <li> Um espaço útil para conforto e bem estar. </li> <!-- Motivações -->
+        <li> Hospitalidade e respeito. </li> <!-- Motivações -->
       </ul>
     </td>
     <td>
-      <li> xxx </li> <!-- Frustações -->
-      <li> xxx </li> <!-- Frustações -->
+      <li> Moradores desrespeitosos </li> <!-- Frustações -->
+      <li> Falta de compromisso com o ambiente compartilhado  </li> <!-- Frustações -->
+      <li> Ambiente hostil </li> <!-- Frustações -->
+
+
      </td>
     <td>
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
+      <li> Ler </li> <!-- Hobbies, História -->
+      <li> Cozinhar </li> <!-- Hobbies, História -->
+      <li> Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores.Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores. </li> <!-- Hobbies, História -->
     </td>
   </tr>
 </table>
@@ -235,6 +238,7 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 | Letícia Rocca <br> Usuário Morador AD | Morar perto da faculdade | Economizar tempo e gastos com transporte |
 | Letícia Rocca <br> Usuário Morador AD | Morar com outras pessoas | Não se sentir tão só |
 | Letícia Rocca <br> Usuário Morador AD | Criar laços estreitos com colegas da mesma área de Arquitetura | Formar uma boa rede de contatos e de amizade |
+| Isabel Sainz <br> Usuário Morador | Comentar sobre seu alivio em encontrar um republica que se encaixa no perfil. | Mostrar aos outros usuários a possibilidade de encontrar algo de acordo com suas necessidades.|
 
 
 O quadro abaixo apresenta uma breve definição de cada perfil: 
