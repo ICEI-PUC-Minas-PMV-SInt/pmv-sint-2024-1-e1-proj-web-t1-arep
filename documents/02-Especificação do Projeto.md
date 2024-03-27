@@ -14,7 +14,7 @@ Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas
   <tr>
     <td >O WebQuarto é uma plataforma para anucios de quartos.
 
-Fonte: https://www.cliquealimentos.com.br/Inicial.</td>
+Fonte: https://www.webquarto.com.br</td>
   </tr>
 
   <tr>
