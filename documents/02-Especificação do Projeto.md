@@ -269,7 +269,13 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 |  O site deverá ser responsivo, permitindo a visualização em diversos dispositivos | ALTA | 
-| RNF-02 | O sistema deve mostrar a localização da república pelo Google Maps| MEDIO | 
-
+| RNF-02 | O sistema deve mostrar a localização da república pelo Google Maps | MÉDIA | 
+| RNF-03 | O sistema notificará via ícones novas atualizações e notificações| MÉDIA |
+| RNF-04 | Utilizar o SCRUM como metodologia de desenvolvimento | ALTA |
+| RNF-05 | O sistema deve ser web | ALTA |
+| RNF-06 | Utilizar o SCRUM como metodologia de desenvolvimento | ALTA |
+| RNF-07 | Utilizar o SCRUM como metodologia de desenvolvimento | ALTA |
+| RNF-08 | Utilizar o SCRUM como metodologia de desenvolvimento | ALTA |
+| RNF-09 | Utilizar o SCRUM como metodologia de desenvolvimento | ALTA |
 **Prioridade: Alta / Média / Baixa. 
 
