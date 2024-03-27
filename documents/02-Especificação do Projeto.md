@@ -6,26 +6,23 @@ Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas
 <table>
  <thead>
   <tr>
+   <th>Fotos</th>
    <th>Descrição</th>
   </tr>
  </thead>
 
  <tbody>
   <tr>
-    <td >O Uliving é uma plataforma para anucios de repúblicas.
-
-Fonte: https://uliving.com.br</td>
+    <td><img title="uliving" src="https://i.imgur.com/Vt9BywM.jpeg"></td>
+    <td>O Uliving é uma plataforma de repúblicas universitárias. Que atende alguns Estados brasileiros. Eles não possuem anúncios de moradias de terceiros.<br> Fonte: https://uliving.com.br</td>
   </tr>
   <tr>
-    <td >O WebQuarto é uma plataforma para anucios de quartos.
-
-Fonte: https://www.webquarto.com.br</td>
+    <td><img title="webquarto" src="https://i.imgur.com/hSCL2zq.jpeg"></td>
+    <td >O WebQuarto é uma plataforma para anucios de quartos. Porém não possui muitos filtros para busca, apenas dentro de cada anúncio há a informação extra. <br> Fonte: https://www.webquarto.com.br</td>
   </tr>
-
   <tr>
-    <td > A Republika ajuda estudandes a encontrar uma república para morar.  
-
-Fonte: https:https://apprepublika.com/</td>
+    <td><img title="republika" src="https://i.imgur.com/oAFzvL2.jpeg"></td>
+    <td > A Republika ajuda estudandes a encontrar uma república para morar. Também não possui filtros e dentro do anúncio não possui mais detalhes. <br> Fonte: https://apprepublika.com/</td>
   </tr>
 
 </table>
