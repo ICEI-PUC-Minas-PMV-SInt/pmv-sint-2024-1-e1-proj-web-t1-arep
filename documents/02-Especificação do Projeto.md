@@ -143,37 +143,39 @@ Fonte: https:https://apprepublika.com/</td>
     </td>
   </tr>
     <tr>
-    <td><img title=" xxx " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
-    <td> xxx </td> <!-- nome -->
+    <td><img title="Pedro Silva" src="https://i.imgur.com/HxZR4A8.jpeg"/></td> <!--nome / foto colocar endereço url -->
+    <td> Pedro Silva </td> <!-- nome -->
     <td>
       <ul>
-        <li> xxx </li> <!-- idade -->
-        <li> xxx </li> <!-- profição -->
-        <li> xxx </li> <!-- moradia -->
+        <li> 25 anos </li> <!-- idade -->
+        <li> Estudante e Estagiário </li> <!-- profição -->
+        <li> Buscando uma república em São Paulo </li> <!-- moradia -->
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
-        <li> xxx </li> <!-- aplicativos utilizados -->
+        <li> Facebook </li> <!-- aplicativos utilizados -->
+        <li> Instagram </li> <!-- aplicativos utilizados -->
+        <li> Netflix </li> <!-- aplicativos utilizados -->
+        <li> WhatsApp </li> <!-- aplicativos utilizados -->
       </ul>
     </td>
     <td>
       <ul>
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
-        <li> xxx </li> <!-- Motivações -->
+        <li> Lugar tranquilo para estudar </li> <!-- Motivações -->
+        <li> Ambienbte seguro </li> <!-- Motivações -->
+        <li> Conquistar o cargo dos sonhos </li> <!-- Motivações -->
       </ul>
     </td>
     <td>
-      <li> xxx </li> <!-- Frustações -->
-      <li> xxx </li> <!-- Frustações -->
+      <li> Não teve experiências boas em republicas anteriores </li> <!-- Frustações -->
+      <li> Falta de organização entre os moderadores </li> <!-- Frustações -->
+      <li> Perdeu a chance de ingressar na empresa dos sonhos </li> <!-- Frustações -->
      </td>
     <td>
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
-      <li> xxx </li> <!-- Hobbies, História -->
+      <li> Praticar musculação </li> <!-- Hobbies, História -->
+      <li> Assistir filme </li> <!-- Hobbies, História -->
+      <li>  O mais novo dos irmãos, é um aluno muito dedicado que tem grandes expectativas profissionais </li> <!-- Hobbies, História -->
     </td>
   </tr>
     <tr>
