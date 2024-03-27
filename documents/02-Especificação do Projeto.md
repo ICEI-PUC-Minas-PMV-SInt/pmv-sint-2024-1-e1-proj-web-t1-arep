@@ -198,7 +198,6 @@ Fonte: https:https://apprepublika.com/</td>
       <ul>
         <li> Linkedin </li> <!-- aplicativos utilizados -->
         <li> Instagram </li> <!-- aplicativos utilizados -->
-        <li> X </li> <!-- aplicativos utilizados -->
       </ul>
     </td>
     <td>
@@ -212,13 +211,11 @@ Fonte: https:https://apprepublika.com/</td>
       <li> Moradores desrespeitosos </li> <!-- Frustações -->
       <li> Falta de compromisso com o ambiente compartilhado  </li> <!-- Frustações -->
       <li> Ambiente hostil </li> <!-- Frustações -->
-
-
      </td>
     <td>
-      <li> Ler </li> <!-- Hobbies, História -->
-      <li> Cozinhar </li> <!-- Hobbies, História -->
-      <li> Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores.Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores. </li> <!-- Hobbies, História -->
+      <li> Ler </li> 
+      <li> Cozinhar </li> 
+      <li> Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores.Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores. </li> 
     </td>
   </tr>
 </table>
@@ -262,9 +259,26 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RF-04 | O cadastro de repúblicas deve permitir inserir a localização | ALTA |
 | RF-05 | O sistema deve possuir o cadastro de perfis de usuário em busca de república | ALTA |
 | RF-06 | O sistema deve possuir um sistema de contato entre repúblicas e perfis de usuário e vice versa | MÉDIO |
-| RF-07 |O sistema deve solicitar autorização da localização do usuário.| MEDIO |
-| RF-08 | ...            | ALTA |
-| RF-09 | ...            | ALTA |
+| RF-07 |O sistema deve solicitar autorização da localização do usuário.| MÉDIO |
+| RF-08 |Permitir que o usuário possa realizar um Post | ALTA | 
+| RF-09 |Permitir que o usuário comente em Posts | ALTA |
+| RF-10 |Permitir que o usuário avalie a república | MÉDIO |
+| RF-11 |O sistema deve considerar um mecanismo de rating | BAIXA |
+| RF-12 |Permitir que o usuário possa visualizar uma lista com todas a notificações | MÉDIA |
+| RF-13 |Permitir que o usuário possa visualizar outros bairros | ALTA |
+| RF-14 |Permitir que o usuário possa denunciar um Post | BAIXA |
+| RF-15 |Permitir que o usuário possa publicar fotos | ALTA |
+| RF-16 |O sistema deve fornecer um chat | BAIXA |
+| RF-17 |O sistema deve ser capaz de filtrar postagens por interesses | ALTA |
+| RF-18 |O sistema deve conter um mecanismo de interação com o post | MÉDIO |
+| RF-19 |O sistema deve considerar um mecanismo de avaliação de usuários | BAIXA |
+| RF-20 |O sistema deve considerar um destaque para usuários bem avaliados | BAIXA |
+| RF-21 |O sistema deve ter a funcionalidade de logout | ALTA |
+| RF-22 |O sistema deve conter uma tela de perfil | MÉDIA |
+| RF-23 |O sistema deve conter uma seção de configurações | MÉDIA |
+| RF-24 |O sistema deve permitir que o usuário altere suas informações de cadastro | MÉDIA |
+| RF-25 | O sistema deve conter a funcionalidade de recuperar senha | MÉDIA |
+| RF-26 | Permitir que o usuario possa alterar suas informações pessoais na tela de perfil | MÉDIA |
 
 **Prioridade: Alta / Média / Baixa. 
 
