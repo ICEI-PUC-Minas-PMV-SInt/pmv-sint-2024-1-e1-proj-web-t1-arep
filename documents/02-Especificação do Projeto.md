@@ -302,5 +302,6 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RNF-14 | O sistema deve exigir autenticação prévia de usuários| MÉDIA| 
 | RNF-15 | O sistema deve fazer backup a cada 24 horas| MÉDIA| 
 | RNF-16 | O sistema deve ter boa usabilidade| MÉDIA| 
+
 **Prioridade: Alta / Média / Baixa. 
 
