@@ -258,7 +258,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RF-04 | O cadastro de repúblicas deve permitir inserir a localização | ALTA |
 | RF-05 | O sistema deve possuir o cadastro de perfis de usuário em busca de república | ALTA |
 | RF-06 | O sistema deve possuir um sistema de contato entre repúblicas e perfis de usuário e vice versa | MÉDIO |
-| RF-07 | ...            | ALTA |
+| RF-07 |O sistema deve solicitar autorização da localização do usuário.| MEDIO |
 | RF-08 | ...            | ALTA |
 | RF-09 | ...            | ALTA |
 
@@ -269,7 +269,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 |  O site deverá ser responsivo, permitindo a visualização em diversos dispositivos | ALTA | 
-| ...    |  ...                    | ...   | 
+| RNF-02 | O sistema deve mostrar a localização da república pelo Google Maps| MEDIO | 
 
 **Prioridade: Alta / Média / Baixa. 
 
