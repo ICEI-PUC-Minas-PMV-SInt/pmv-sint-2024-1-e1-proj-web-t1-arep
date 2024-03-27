@@ -41,11 +41,11 @@ Fonte: https:https://apprepublika.com/</td>
     <th>Hobbies, História</th>
   </tr
         <tr>
-    <td><img title="Thiago Alexandre" src="https://i.imgur.com/00RuxnP.png"/></td>
-    <td>Thiago Alexandre</td>
+    <td><img title="Joaquim Alexandre" src="https://i.imgur.com/00RuxnP.png"/></td>
+    <td>Joaquim Alexandre</td>
     <td>
       <ul>
-        <li>35 anos</li>
+        <li>25 anos</li>
         <li>Personal Trainer</li>
         <li>Mora de aluguel em Belo Horizonte </li>
       </ul>
@@ -220,8 +220,8 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 
 |EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `SOLUCIONAR/PROBLEMA`|
 |--------------------|---------------------------|----------------------------------|
-| Thiago Alexandre | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
-| | Encontrar Repúblicas confiaves e traquila | Conseguir ter tranquilidade e dedicar ao trabalho/estudos |
+| Joaquim Alexandre | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
+| Joaquim Alexandre | Conhecer bem quem vai morar comigo | Ter traquilidade ao dividir moradia |
 | Julio Almeida | Divulgar vagas de acordo com o perfil do usuário | Encontrar a pessoa adequada para a vaga |
 | Julio Almeida | Encontrar pessoas confiáveis para as vagas | Ter mais segurança para os moradores |
 | Letícia Rocca | Encontrar uma república | Ter onde morar de forma mais econômica |
