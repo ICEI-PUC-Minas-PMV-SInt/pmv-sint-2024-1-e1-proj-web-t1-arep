@@ -76,7 +76,7 @@ Fonte: https:https://apprepublika.com/</td>
           </td>
   </tr>
   <tr>
-    <td><img title=" Julio Almeida " src=" xxx "/></td> <!--nome / foto colocar endereço url -->
+    <td><img title=" Julio Almeida " src="https://i.imgur.com/OCHB9jh.jpg"/></td> <!--nome / foto colocar endereço url -->
     <td> Julio Almeida </td> 
     <td>
       <ul>
@@ -250,8 +250,15 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 | O sistema deve possibilitar o cadastro de repúblicas | ALTA | 
+| RF-02 | O sistema deve possuir um sistema de cadastro / login | ALTA |
+| RF-03 | O cadastro de repúblicas deve possuir um sistema de filtros, fotos e descrição | ALTA |
+| RF-04 | O cadastro de repúblicas deve permitir inserir a localização | ALTA |
+| RF-05 | O sistema deve possuir o cadastro de perfis de usuário em busca de república | ALTA |
+| RF-06 | O sistema deve possuir um sistema de contato entre repúblicas e perfis de usuário e vice versa | MÉDIO |
+| RF-07 | ...            | ALTA |
+| RF-08 | ...            | ALTA |
+| RF-09 | ...            | ALTA |
 
 **Prioridade: Alta / Média / Baixa. 
 
@@ -261,7 +268,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
+| RNF-01 |  O site deverá ser responsivo, permitindo a visualização em diversos dispositivos | ALTA | 
 | ...    |  ...                    | ...   | 
 
 **Prioridade: Alta / Média / Baixa. 
