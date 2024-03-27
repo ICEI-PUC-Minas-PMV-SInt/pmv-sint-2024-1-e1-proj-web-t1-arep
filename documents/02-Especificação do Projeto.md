@@ -220,14 +220,14 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 
 |EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `SOLUCIONAR/PROBLEMA`|
 |--------------------|---------------------------|----------------------------------|
-| Joaquim Alexandre | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
-| Joaquim Alexandre | Conhecer bem quem vai morar comigo | Ter traquilidade ao dividir moradia |
-| Julio Almeida | Divulgar vagas de acordo com o perfil do usuário | Encontrar a pessoa adequada para a vaga |
-| Julio Almeida | Encontrar pessoas confiáveis para as vagas | Ter mais segurança para os moradores |
-| Letícia Rocca | Encontrar uma república | Ter onde morar de forma mais econômica |
-| Letícia Rocca | Morar perto da faculdade | Economizar tempo e gastos com transporte |
-| Letícia Rocca | Morar com outras pessoas | Não se sentir tão só |
-| Letícia Rocca | Criar laços estreitos com colegas da mesma área de Arquitetura | Formar uma boa rede de contatos e de amizade |
+| Joaquim Alexandre <br> Usuário Morador AD | Divulgar minha república de forma segura | Preencher o quarto vazio o mais rápido |
+| Joaquim Alexandre <br> Usuário Morador AD | Conhecer bem quem vai morar comigo | Ter traquilidade ao dividir moradia |
+| Julio Almeida <br> Usuário Morador AD| Divulgar vagas de acordo com o perfil do usuário | Encontrar a pessoa adequada para a vaga |
+| Julio Almeida <br> Usuário Morador AD | Encontrar pessoas confiáveis para as vagas | Ter mais segurança para os moradores |
+| Letícia Rocca <br> Usuário Morador AD | Encontrar uma república | Ter onde morar de forma mais econômica |
+| Letícia Rocca <br> Usuário Morador AD | Morar perto da faculdade | Economizar tempo e gastos com transporte |
+| Letícia Rocca <br> Usuário Morador AD | Morar com outras pessoas | Não se sentir tão só |
+| Letícia Rocca <br> Usuário Morador AD | Criar laços estreitos com colegas da mesma área de Arquitetura | Formar uma boa rede de contatos e de amizade |
 
 
 O quadro abaixo apresenta uma breve definição de cada perfil: 
@@ -238,7 +238,6 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | Usuário Morador ADM | Pessoa que administra a republica |
 | Usuário Demandante | Pessoa que busca por uma república |
 | Usuário Morador | Pessoa que reside em uma república |
-| Usuario PSG | Prestador de Serviços Gerais |
 
 ## Requisitos do Projeto
 
