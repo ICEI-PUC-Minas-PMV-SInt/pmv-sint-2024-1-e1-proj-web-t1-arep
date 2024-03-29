@@ -212,7 +212,7 @@ Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas
     <td>
       <li> Ler </li> 
       <li> Cozinhar </li> 
-      <li> Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores.Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores. </li> 
+      <li> Isabel é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores.Stela é natural de Barcelona, se mudou para o Brasil para um mestrado e desde então mora em uma republica. Acredita que morar em um ambiente acolhedor e funcional não é apenas importante para o seu próprio bem estar mas também para o conforto de outros moradores. </li> 
     </td>
   </tr>
 </table>
