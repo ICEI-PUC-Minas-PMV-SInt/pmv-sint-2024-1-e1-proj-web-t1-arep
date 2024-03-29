@@ -20,9 +20,9 @@ Os donos de república anunciam suas vagas de forma transparente e simplificada 
 
 ## Justificativa
 
-A motivação para trabalhar com o problema definido é impulsionada pela necessidade de oferecer uma solução eficiente e abrangente para os desafios enfrentados por estudantes e indivíduos em busca de moradia compartilhada. 
-A crescente demanda por moradia compartilhada, impulsionada pelo aumento do custo de vida em áreas urbanas e a necessidade de otimizar recursos financeiros, torna evidente a importância de um sistema que simplifique e agilize o processo de busca por moradia.
-A equipe escolheu esse problema devido à sua relevância e impacto direto na qualidade de vida dos usuários. A dificuldade em encontrar moradia compartilhada adequada e acessível, Vale ressaltar que a aplicação também busca ser inclusiva com estudantes mais maduros, por meio de uma busca por faixa etária, tendo em vista que, segundo dados do MEC, em 2021, quase 600 mil pessoas acima de 40 anos foram matriculadas em universidades, o que representa um aumento de 171,1% nos últimos 10 anos. (fonte)
+A motivação para trabalhar com o problema definido é impulsionada pela necessidade de oferecer uma solução eficiente e abrangente para os desafios enfrentados por estudantes e indivíduos em busca de moradia compartilhada. <br>
+A crescente demanda por moradia compartilhada, impulsionada pelo aumento do custo de vida em áreas urbanas e a necessidade de otimizar recursos financeiros, torna evidente a importância de um sistema que simplifique e agilize o processo de busca por moradia. <br>
+A equipe escolheu esse problema devido à sua relevância e impacto direto na qualidade de vida dos usuários. A dificuldade em encontrar moradia compartilhada adequada e acessível, Vale ressaltar que a aplicação também busca ser inclusiva com estudantes mais maduros, por meio de uma busca por faixa etária, tendo em vista que, segundo dados do MEC, em 2021, quase 600 mil pessoas acima de 40 anos foram matriculadas em universidades, o que representa um aumento de 171,1% nos últimos 10 anos. (fonte) <br>
 Quanto aos estudantes universitários - que são um dos principais públicos na busca por repúblicas - há um número grande de estudantes no ensino superior. Segundo a ABRES(Associação Brasileira de Estágios), há quase 9 milhões de estudantes matriculados (fonte) sendo que deste número uma grande parte tem que se mudar para mais próximo da faculdade ou até mesmo por conta de trabalho ou estágio. 
 
 ## Público-Alvo
