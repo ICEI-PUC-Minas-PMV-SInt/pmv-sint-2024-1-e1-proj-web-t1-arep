@@ -14,15 +14,15 @@ Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas
  <tbody>
   <tr>
     <td><img title="uliving" src="https://i.imgur.com/Vt9BywM.jpeg"></td>
-    <td>O Uliving é uma plataforma de repúblicas universitárias. Que atende alguns Estados brasileiros. Eles não possuem anúncios de moradias de terceiros.<br> Fonte: https://uliving.com.br</td>
+    <td>O <a href="https://uliving.com.br">Uliving</a> é uma plataforma de repúblicas universitárias. Que atende alguns Estados brasileiros. Eles não possuem anúncios de moradias de terceiros. </td>
   </tr>
   <tr>
     <td><img title="webquarto" src="https://i.imgur.com/hSCL2zq.jpeg"></td>
-    <td >O WebQuarto é uma plataforma para anucios de quartos. Porém não possui muitos filtros para busca, apenas dentro de cada anúncio há a informação extra. <br> Fonte: https://www.webquarto.com.br</td>
+    <td>O <a href="https://www.webquarto.com.br/">WebQuarto</a> é uma plataforma para anucios de quartos. Porém não possui muitos filtros para busca, apenas dentro de cada anúncio há a informação extra.</td>
   </tr>
   <tr>
     <td><img title="republika" src="https://i.imgur.com/oAFzvL2.jpeg"></td>
-    <td > A Republika ajuda estudandes a encontrar uma república para morar. Também não possui filtros e dentro do anúncio não possui mais detalhes. <br> Fonte: https://apprepublika.com/</td>
+    <td> A <a href="https://apprepublika.com/">Republika</a> ajuda estudandes a encontrar uma república para morar. Também não possui filtros e dentro do anúncio não possui mais detalhes.</td>
   </tr>
 
 </table>
@@ -260,7 +260,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RF-08 |Permitir que o usuário possa realizar um Post | ALTA | 
 | RF-09 |Permitir que o usuário comente em Posts | ALTA |
 | RF-10 |Permitir que o usuário avalie a república | MÉDIO |
-| RF-11 |O sistema deve considerar um mecanismo de rating | BAIXA |
+| RF-11 | | BAIXA |
 | RF-12 |Permitir que o usuário possa visualizar uma lista com todas a notificações | MÉDIA |
 | RF-13 |Permitir que o usuário possa visualizar outros bairros | ALTA |
 | RF-14 |Permitir que o usuário possa denunciar um Post | BAIXA |
