@@ -20,10 +20,7 @@ Os donos de república anunciam suas vagas de forma transparente e simplificada 
 
 ## Justificativa
 
-A motivação para trabalhar com o problema definido é impulsionada pela necessidade de oferecer uma solução eficiente e abrangente para os desafios enfrentados por estudantes e indivíduos em busca de moradia compartilhada. <br>
-A crescente demanda por moradia compartilhada, impulsionada pelo aumento do custo de vida em áreas urbanas e a necessidade de otimizar recursos financeiros, torna evidente a importância de um sistema que simplifique e agilize o processo de busca por moradia. <br>
-A equipe escolheu esse problema devido à sua relevância e impacto direto na qualidade de vida dos usuários. 
-Quanto aos estudantes universitários - que são um dos principais públicos na busca por repúblicas - há um número grande de estudantes no ensino superior. Segundo a ABRES(Associação Brasileira de Estágios), há quase 9 milhões de estudantes matriculados (fonte) sendo que deste número uma grande parte tem que se mudar para mais próximo da faculdade ou até mesmo por conta de trabalho ou estágio. 
+A nossa equipe sente uma forte motivação em enfrentar este desafio por compreender profundamente a importância que ele tem na vida dos estudantes e de todos que buscam moradia compartilhada. A demanda crescente por esse tipo de moradia, impulsionada pelo aumento do custo de vida nas áreas urbanas e pela necessidade de otimizar os recursos financeiros, evidencia a urgência de simplificar e agilizar o processo de busca por moradia.<br>Escolhemos trabalhar nesse problema porque reconhecemos o impacto significativo que ele tem na qualidade de vida dos usuários, especialmente dos estudantes universitários, que representam uma grande parte daqueles que procuram repúblicas. Segundo dados da ABRES (Associação Brasileira de Estágios), quase 9 milhões de estudantes estão matriculados, muitos dos quais precisam se mudar para áreas próximas à faculdade ou por causa de oportunidades de trabalho ou estágio.
 
 ## Público-Alvo
 
