@@ -8,12 +8,17 @@ Diante dessa demanda crescente, há a necessidade de uma solução que simplifiq
 
 ## Problema
 A descentralização de informações acerca de repúblicas disponíveis leva os interessados a buscar opções em grupos de redes sociais e sites de anúncios, resultando em um processo desorganizado e limitado. A dificuldade em encontrar informações precisas podem levar a escolhas duvidosas, podendo resultar em situações de moradia inadequadas.
-#### Grafico de Problemas 
+#### Graficos de Problemas 
 Foi feita uma pesquisa para levantar alguns dados sobre usuários de repúblicas. Foram levantadas 34 respostas de usuários diversos.
 <br>
 O gráfico a seguir mostra os principais problemas encontrados na busca por moradias compartilhadas. Sendo a falta de informação e dificuldade em encontrar vagas são os principais problemas relatados.
 <br><br>
 <img title="principais problemas" src="https://i.imgur.com/R450be5.jpeg">
+<br><br>
+Quanto as plataformas utilizadas para divulgação e busca por repúblicas, o Facebook se destaca. Porém a rede social possui suas limitações no que se refere a dados completos sobre as vagas. Sendo divulgadas apenas as informações que o anunciante acha importante.
+<br><br>
+<img title="plataformas" src="https://i.imgur.com/peSm00x.jpeg">
+<br>
 
 
 ## Objetivos
