@@ -287,17 +287,17 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RNF-03 | O sistema notificará via ícones novas atualizações e notificações| MÉDIA |
 | RNF-04 | Utilizar o SCRUM como metodologia de desenvolvimento | ALTA |
 | RNF-05 | O sistema deve ser web | ALTA |
-| RNF-06 | Utilizar o SCRUM como metodologia de desenvolvimento| ALTA | 
-| RNF-07 | O sistema deve ser web |MÉDIA | 
-| RNF-08 | O sistema será desenvolvido em C#,CSS3,JAVASCRIPT,HTML5| MÉDIA| 
+| RNF-06 | O sistema deve ter boa usabilidade | MÉDIA | 
+| RNF-07 | O sistema deve fazer backup a cada 24 horas | MÉDIA | 
+| RNF-08 | O sistema será desenvolvido em C#, CSS3, JAVASCRIPT, HTML5 | MÉDIA| 
 | RNF-09 | O sistema deve ser executado nos principais navegadores (Chrome, mozila e Edge)| MÉDIA | 
 | RNF-10 | O sistema deve conter mensagens que informem erros de utilização | MÉDIA | 
 | RNF-11 | Deve processar requisições do usuário em no máximo 3s| BAIXA| 
 | RNF-12 | Para que o sistema seja acessado, é necessário estar conectado a internet| MÉDIA| 
-| RNF-13 | Utilizar um banco de dados para verificar informações de usuários, cestas, beneficiários e instituições| MÉDIA| 
+| RNF-13 | Utilizar um banco de dados para verificar informações de usuários| MÉDIA| 
 | RNF-14 | O sistema deve exigir autenticação prévia de usuários| MÉDIA| 
-| RNF-15 | O sistema deve fazer backup a cada 24 horas| MÉDIA| 
-| RNF-16 | O sistema deve ter boa usabilidade| MÉDIA| 
+ 
+
 
 **Prioridade: Alta / Média / Baixa. 
 
