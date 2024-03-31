@@ -8,7 +8,12 @@ Diante dessa demanda crescente, há a necessidade de uma solução que simplifiq
 
 ## Problema
 A descentralização de informações acerca de repúblicas disponíveis leva os interessados a buscar opções em grupos de redes sociais e sites de anúncios, resultando em um processo desorganizado e limitado. A dificuldade em encontrar informações precisas podem levar a escolhas duvidosas, podendo resultar em situações de moradia inadequadas.
-
+#### Grafico de Problemas 
+Foi feita uma pesquisa para levantar alguns dados sobre usuários de repúblicas. Foram levantadas 34 respostas de usuários diversos.
+<br>
+O gráfico a seguir mostra os principais problemas encontrados na busca por moradias compartilhadas. Sendo a falta de informação e dificuldade em encontrar vagas são os principais problemas relatados.
+<br><br>
+<img title="principais problemas" src="https://i.imgur.com/R450be5.jpeg">
 
 
 ## Objetivos
@@ -20,7 +25,14 @@ Os donos de república anunciam suas vagas de forma transparente e simplificada 
 
 ## Justificativa
 
-A nossa equipe sente uma forte motivação em enfrentar este desafio por compreender profundamente a importância que ele tem na vida dos estudantes e de todos que buscam moradia compartilhada. A demanda crescente por esse tipo de moradia, impulsionada pelo aumento do custo de vida nas áreas urbanas e pela necessidade de otimizar os recursos financeiros, evidencia a urgência de simplificar e agilizar o processo de busca por moradia.<br>Escolhemos trabalhar nesse problema porque reconhecemos o impacto significativo que ele tem na qualidade de vida dos usuários, especialmente dos estudantes universitários, que representam uma grande parte daqueles que procuram repúblicas. Segundo dados da ABRES (Associação Brasileira de Estágios), quase 9 milhões de estudantes estão matriculados, muitos dos quais precisam se mudar para áreas próximas à faculdade ou por causa de oportunidades de trabalho ou estágio.
+A nossa equipe sente uma forte motivação em enfrentar este desafio por compreender profundamente a importância que ele tem na vida dos estudantes e de todos que buscam moradia compartilhada. A demanda crescente por esse tipo de moradia, impulsionada pelo aumento do custo de vida nas áreas urbanas e pela necessidade de otimizar os recursos financeiros, evidencia a urgência de simplificar e agilizar o processo de busca por moradia.<br>Escolhemos trabalhar nesse problema porque reconhecemos o impacto significativo que ele tem na qualidade de vida dos usuários, especialmente dos estudantes universitários, que representam uma grande parte daqueles que procuram repúblicas. Segundo dados da ABRES (Associação Brasileira de Estágios), quase 9 milhões de estudantes estão matriculados, muitos dos quais precisam se mudar para áreas próximas à faculdade ou por causa de oportunidades de trabalho ou estágio.<a href="https://abres.org.br/estatisticas/#:~:text=Já%20no%20nível%20superior%2C%20segundo,66%25%20no%20mesmo%20período).">Fonte</a><br>
+#### Pesquisa de casos de uso:
+
+O gráfico a seguir apresenta os motivos que levariam os usuários a buscar uma república. A grande maioria, como já era esperado, procura repúblicas por conta de faculdade e por conta de gastos com moradia. Esses dados nos permitem ter uma idéia do público alvo.
+<br>
+
+<img title="considerar morar em republica" src="https://i.imgur.com/YKRiinb.jpeg"> <br>
+
 
 ## Público-Alvo
 
