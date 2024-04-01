@@ -232,6 +232,8 @@ Com base na análise das personas identificadas as seguintes histórias de usuá
 | Letícia Rocca <br> Usuário Morador AD | Morar perto da faculdade | Economizar tempo e gastos com transporte |
 | Letícia Rocca <br> Usuário Morador AD | Morar com outras pessoas | Não se sentir tão só |
 | Letícia Rocca <br> Usuário Morador AD | Criar laços estreitos com colegas da mesma área de Arquitetura | Formar uma boa rede de contatos e de amizade |
+| Pedro Silva <br> Usuário Demandante | Encontrar uma república | Para morar próximo a faculdadee diminuir gastos com transporte |
+| Pedro Silva <br> Usuário Demandante | Local calmo e seguro | Conseguir estudar melhor e sentir seguro no local |
 | Isabel Sainz <br> Usuário Morador | Comentar sobre seu alivio em encontrar um republica que se encaixa no perfil. | Mostrar aos outros usuários a possibilidade de encontrar algo de acordo com suas necessidades.|
 
 
