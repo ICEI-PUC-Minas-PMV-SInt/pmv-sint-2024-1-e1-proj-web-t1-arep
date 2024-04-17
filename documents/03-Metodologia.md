@@ -65,7 +65,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              | [protótipo](https://www.figma.com/file/l1ri63c70EwTQEeEjLjNIR/myrep-(wireframes)?type=design&node-id=0%3A1&mode=design&t=u6DxNgdHf3vuCNiJ-1)                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
