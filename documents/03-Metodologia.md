@@ -12,16 +12,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
 - Scrum Master: Rodrigo Alexandre Silva Campos Pires.
 - Product Owner: Lavi Solace Silva Costa.
 - Equipe de Desenvolvimento: Alana Alves Maia, Hygor Queiroz Carvalho, Lavi Solace Silva Costa, Maria Fernanda Tenório Lins, Rodrigo Alexandre Silva Campos Pires.
 - Equipe de Design: Alana Alves Maia, Hygor Queiroz Carvalho, Maria Fernanda Tenório Lins.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
