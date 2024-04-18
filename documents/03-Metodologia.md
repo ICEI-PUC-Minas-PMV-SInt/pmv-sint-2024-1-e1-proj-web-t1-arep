@@ -60,7 +60,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Repositório de código fonte         | GitHub                             |[Código Fonte](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-1-e1-proj-web-t1-arep)|
 | Documentos do projeto               | GitHub                             |[MyRep](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-1-e1-proj-web-t1-arep/tree/main/documents)|
 | Projeto de Interface                | Figma                              | [Protótipo](https://www.figma.com/file/l1ri63c70EwTQEeEjLjNIR/myrep-(wireframes)?type=design&node-id=0%3A1&mode=design&t=u6DxNgdHf3vuCNiJ-1) |
-| Gerenciamento do Projeto            | Trello                    | [Trello](https://mm.tt/app/map/3238751455?t=tbnkk3a4jw)|
+| Gerenciamento do Projeto            | Trello                    | [Trello](https://trello.com/b/8PYGXflu/projeto-puc-minas)|
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
