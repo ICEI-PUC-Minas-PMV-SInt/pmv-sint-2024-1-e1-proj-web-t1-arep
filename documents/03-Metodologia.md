@@ -1,7 +1,7 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+Vamos utilizar a metodologia do Scrum como  uma Framework de gestão de projetos focado na entrega de valor e na melhoria contínua dos processos no nosso projeto. Essa escolha foi feita pois com o Scrum temos uma lógica de entrega em ciclos (as Sprints), onde conseguimos distribuir a demanda do nosso projeto para equipe, fazê las com um período de tempo mais curto, testar e corrigir o mais rápido possível focando na entrega de um produto que atenda as especificações do projeto.
 
 
 ## Gerenciamento de Projeto
@@ -51,9 +51,11 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+Como ferramenta de gestão do projeto optamos pela plataforma <strong>Trello</strong>,  uma plataforma colaborativa de equipe  que possibilita avaliar o fluxo de trabalho dos colaboradores e distribuir suas tarefas individuais ou em conjunto, dando uma visão geral a todos do andamento do projeto. 
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+Para o protótipo da interface e design está sendo utilizado a plataforma da <strong>Figma</strong>, seu papel é oferecer recursos de design de telas para aplicações variadas, permitindo que o time de Design trabalhe em conjunto no mesmo projeto remotamente e simultaneamente.
+
+O <strong>GitHub</strong> está sendo responsável por hospedar nossos documentos do projeto e o código fonte, por ser uma plataforma colaborativa e que permite rastrear toda a movimentação do projeto, ele é ideal na documentação, por manter sempre um histórico de movimentação de cada colaborador.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
