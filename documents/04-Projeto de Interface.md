@@ -28,5 +28,5 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 ![tela anunciar](https://i.ibb.co/jg7whCY/tela-4.png)
 
 #### Tela Anúncio
-![tela anuncio](https://i.ibb.co/4Z9nbtP/tela-5.png)
+![tela anuncio](https://i.ibb.co/nwhfS65/tela-5.png)
 
