@@ -1,9 +1,7 @@
 
 # Metodologia
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+Vamos utilizar a metodologia do Scrum como  uma Framework de gestão de projetos focado na entrega de valor e na melhoria contínua dos processos no nosso projeto. Essa escolha foi feita pois com o Scrum temos uma lógica de entrega em ciclos (as Sprints), onde conseguimos distribuir a demanda do nosso projeto para equipe, fazê las com um período de tempo mais curto, testar e corrigir o mais rápido possível focando na entrega de um produto que atenda as especificações do projeto.
 
 ### Divisão de Papéis
 
