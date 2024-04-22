@@ -16,17 +16,17 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
 #### Tela Inicial
-![tela inicial](https://i.ibb.co/Yf7WpXH/Tela-Inicial.png)
+![tela inicial](https://i.ibb.co/NYhLDq8/tela-1.png)
 
 #### Tela Entrar 
-![tela entrar](https://i.ibb.co/Dw0LYKy/Tela-Entrar.png)
+![tela entrar](https://i.ibb.co/p0VW6mP/tela-2.png)
 
 #### Tela Cadastro
-![tela cadastro](https://i.ibb.co/r3xzY83/Tela-Cadastro.png)
+![tela cadastro](https://i.ibb.co/pnW74J3/tela-3.png)
 
 #### Tela Anunciar
-![tela anunciar](https://i.ibb.co/LrmfQ9f/Tela-Anunciar.png)
+![tela anunciar](https://i.ibb.co/jg7whCY/tela-4.png)
 
 #### Tela Anúncio
-![tela anuncio](https://i.ibb.co/DwnQv0x/Tela-An-ncio.png)
+![tela anuncio](https://i.ibb.co/4Z9nbtP/tela-5.png)
 
