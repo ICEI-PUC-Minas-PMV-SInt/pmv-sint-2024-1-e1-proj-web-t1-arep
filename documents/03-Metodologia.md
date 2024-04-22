@@ -5,7 +5,7 @@ Vamos utilizar a metodologia do Scrum como  uma Framework de gestão de projetos
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+A equipe ao utilizar o Scrum como base para definição do processo de desenvolvimento dividiu da seguinte forma os perfis .
 - Scrum Master: Rodrigo Alexandre Silva Campos Pires.
 - Product Owner: Lavi Solace Silva Costa.
 - Equipe de Desenvolvimento: Alana Alves Maia, Hygor Queiroz Carvalho, Lavi Solace Silva Costa, Maria Fernanda Tenório Lins, Rodrigo Alexandre Silva Campos Pires.
