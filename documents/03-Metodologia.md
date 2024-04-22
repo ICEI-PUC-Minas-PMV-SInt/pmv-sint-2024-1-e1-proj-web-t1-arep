@@ -10,7 +10,7 @@ A equipe ao utilizar o Scrum como base para definição do processo de desenvolv
 - Scrum Master: Rodrigo Alexandre Silva Campos Pires.
 - Product Owner: Lavi Solace Silva Costa.
 - Equipe de Design: Alana Alves Maia, Hygor Queiroz Carvalho, Maria Fernanda Tenório Lins.
-- Equipe de Desenvolvimento: Alana, Hygor, Lavi, Marias, Rodrigo.
+- Equipe de Desenvolvimento: Alana, Hygor, Lavi, Maria, Rodrigo.
 
 ### Processo
 
