@@ -23,7 +23,7 @@ Escolhemos o [Trello](https://trello.com/b/8PYGXflu/projeto-puc-minas) como ferr
 
 Assim, conseguimos atribuir tarefas aos membros, bem como acompanhar o estágio de desenvolvimento da tarefa.
 
-![trello](https://i.ibb.co/znxxhbS/trello.png)
+![trello](https://i.ibb.co/stgwm86/trello2.png)
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
