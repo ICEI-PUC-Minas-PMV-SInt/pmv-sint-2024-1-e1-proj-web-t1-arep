@@ -54,6 +54,7 @@ login.css
 #### Requisito atendido
 
 [RF-11 Permitir que o usuario possa alterar suas informações pessoais na tela de perfil]<br>
+[RF-20 O sistema deve ter a funcionalidade de logout]<br>
 
 
 #### Artefatos da funcionalidade
