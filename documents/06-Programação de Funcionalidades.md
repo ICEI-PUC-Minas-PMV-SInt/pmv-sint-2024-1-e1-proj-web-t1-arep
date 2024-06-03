@@ -39,8 +39,8 @@ telainicial.css
 
 #### Requisito atendido
 
-[RF-20 O sistema deve ter a funcionalidade de logout]<br>
-
+[RF-02 O sistema deve possuir um sistema de cadastro / login]<br>
+[RF-24	O sistema deve conter a funcionalidade de recuperar senha]<br>
 
 #### Artefatos da funcionalidade
 
