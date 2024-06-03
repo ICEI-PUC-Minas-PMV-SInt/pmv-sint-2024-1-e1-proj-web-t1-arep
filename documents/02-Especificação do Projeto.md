@@ -258,7 +258,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RF-03 | O cadastro de repúblicas deve possuir um sistema de filtros, fotos e descrição | ALTA |
 | RF-04 | O cadastro de repúblicas deve permitir inserir a localização | ALTA |
 | RF-05 | O sistema deve possuir o cadastro de perfis de usuário em busca de república | ALTA |
-| RF-06 | O sistema deve possuir um sistema de contato entre repúblicas e perfis de usuário e vice versa | MÉDIA |
+| RF-06 | O sistema deve possuir um sistema de contato via formulário | MÉDIA |
 | RF-07 |O sistema deve solicitar autorização da localização do usuário | MÉDIA |
 | RF-08 | Permitir que o usuário possa criar um anúncio de república | ALTA | 
 | RF-09 | Permitir que o usuário comente em anúncios de república | ALTA |
@@ -268,16 +268,15 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RF-13 | Permitir que o usuário possa visualizar outros bairros | ALTA |
 | RF-14 | Permitir que o usuário possa denunciar um anúncio de república | BAIXA |
 | RF-15 | Permitir que o usuário possa publicar fotos da república | ALTA |
-| RF-16 | O sistema deve fornecer um chat | BAIXA |
-| RF-17 | O sistema deve ser capaz de filtrar postagens por interesses | ALTA |
-| RF-18 | O sistema deve conter um mecanismo de interação com o anúncio de república | MÉDIA |
-| RF-19 | O sistema deve considerar um mecanismo de avaliação de usuários | BAIXA |
-| RF-20 | O sistema deve considerar um destaque para usuários bem avaliados | BAIXA |
-| RF-21 | O sistema deve ter a funcionalidade de logout | ALTA |
-| RF-22 | O sistema deve conter uma tela de perfil | MÉDIA |
-| RF-23 | O sistema deve conter uma seção de configurações | MÉDIA |
-| RF-24 | O sistema deve permitir que o usuário altere suas informações de cadastro | MÉDIA |
-| RF-25 | O sistema deve conter a funcionalidade de recuperar senha | MÉDIA |
+| RF-16 | O sistema deve ser capaz de filtrar postagens por interesses | ALTA |
+| RF-17 | O sistema deve conter um mecanismo de interação com o anúncio de república | MÉDIA |
+| RF-18 | O sistema deve considerar um mecanismo de avaliação de usuários | BAIXA |
+| RF-19 | O sistema deve considerar um destaque para usuários bem avaliados | BAIXA |
+| RF-20 | O sistema deve ter a funcionalidade de logout | ALTA |
+| RF-21 | O sistema deve conter uma tela de perfil | MÉDIA |
+| RF-22 | O sistema deve conter uma seção de configurações | MÉDIA |
+| RF-23 | O sistema deve permitir que o usuário altere suas informações de cadastro | MÉDIA |
+| RF-24 | O sistema deve conter a funcionalidade de recuperar senha | MÉDIA |
 
 **Prioridade: Alta / Média / Baixa. 
 
