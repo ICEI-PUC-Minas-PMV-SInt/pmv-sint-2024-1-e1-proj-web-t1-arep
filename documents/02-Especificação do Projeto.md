@@ -257,7 +257,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 | RF-02 | O sistema deve possuir um sistema de cadastro / login | ALTA |
 | RF-03 | O cadastro de repúblicas deve possuir um sistema de filtros, fotos e descrição | ALTA |
 | RF-04 | O cadastro de repúblicas deve permitir inserir a localização | ALTA |
-| RF-05 | O sistema deve possuir o cadastro de perfis de usuário em busca de república | ALTA |
+| RF-05 | O sistema deve possuir o cadastro de perfis de usuário | ALTA |
 | RF-06 | O sistema deve possuir um sistema de contato via formulário | MÉDIA |
 | RF-07 |O sistema deve solicitar autorização da localização do usuário | MÉDIA |
 | RF-08 | Permitir que o usuário possa criar um anúncio de república | ALTA | 
