@@ -1,0 +1,51 @@
+.adRepImagesBox {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 13px;
+
+  img {
+    border-radius: 8px;
+  }
+}
+
+.repPageSection {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.repInfoList {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.circleList {
+  width: 8px;
+  height: 8px;
+  background-color: #b0b0b0;
+  border-radius: 50%;
+}
+
+.priceRepPage {
+  margin-top: 30px;
+  width: fit-content;
+  height: 60px;
+  color: #fffafa;
+  background-color: #ff498b;
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  font-size: 20px;
+  border-radius: 8px;
+
+  span {
+    font-weight: 500;
+  }
+}
+
+.acomodationRepListPage {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

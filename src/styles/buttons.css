@@ -1,0 +1,16 @@
+.buttonSolid {
+  width: fit-content;
+  height: 50px;
+  padding: 0 20px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  color: #fffafa;
+  background-color: #0094ff;
+  transition: all 150ms ease-in-out;
+}
+
+.buttonSolid:hover {
+  background-color: #4691bf;
+}
