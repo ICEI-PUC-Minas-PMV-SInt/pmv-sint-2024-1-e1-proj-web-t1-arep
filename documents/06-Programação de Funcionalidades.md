@@ -26,8 +26,7 @@ telainicial.css
 
 #### Requisito atendido
 
-[RF-06 O sistema deve possuir um sistema de contato entre repúblicas e perfis de usuário e vice versa]<br>
-[RF-07	O sistema deve solicitar autorização da localização do usuário]
+[]
 
 #### Artefatos da funcionalidade
 
@@ -38,7 +37,7 @@ telainicial.css
 
 #### Requisito atendido
 
-[RF-01: O sistema deve possuir um mecanismo de cadastro e login]
+[]
 
 
 #### Artefatos da funcionalidade
@@ -52,8 +51,7 @@ login.css
 
 #### Requisito atendido
 
-[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
-[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
+[]
 
 
 #### Artefatos da funcionalidade
@@ -66,10 +64,7 @@ pesquisa_logado.css
 
 #### Requisito atendido
 
-[RF-03: O sistema deve ter a funcionalidade de perfil e de personalização do mesmo, definindo preferências]<br>
-[RF-04: O sistema deve ter uma função do usuário cadastrado adicionar uma nova receita à plataforma]<br>
-[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
-[RF-12: O sistema deve ter uma função de ver as receitas salvas]
+[]
 
 
 #### Artefatos da funcionalidade
