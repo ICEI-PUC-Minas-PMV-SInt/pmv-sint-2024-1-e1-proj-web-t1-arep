@@ -26,7 +26,7 @@ telainicial.css
 
 #### Requisito atendido
 
-[]
+[RF-06	O sistema deve possuir um sistema de contato via formulário]
 
 #### Artefatos da funcionalidade
 
