@@ -72,3 +72,16 @@ pesquisa_logado.css
 telaperfil.html<br>
 telaperfil.css
 
+### Tela de Anuciar 
+
+
+#### Requisito atendido
+
+[]
+
+
+#### Artefatos da funcionalidade
+
+telaperfil.html<br>
+telaperfil.css
+
