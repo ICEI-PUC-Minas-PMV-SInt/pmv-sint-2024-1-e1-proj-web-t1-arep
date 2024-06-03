@@ -65,7 +65,10 @@ pesquisa_logado.css
 
 #### Requisito atendido
 
-[]
+[RF-20 O sistema deve ter a funcionalidade de logout]
+[RF-21 O sistema deve conter uma tela de perfil]
+[RF-22 O sistema deve conter uma seção de configurações]
+[RF-23 O sistema deve permitir que o usuário altere suas informações de cadastro]
 
 
 #### Artefatos da funcionalidade
