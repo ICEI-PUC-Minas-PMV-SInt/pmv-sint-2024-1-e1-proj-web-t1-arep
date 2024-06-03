@@ -55,6 +55,7 @@ tela_login.css
 
 ### Tela Cadastro
 
+<<img title="cadastro" src="https://i.imgur.com/It26H0N.jpeg">
 
 #### Requisito atendido
 
