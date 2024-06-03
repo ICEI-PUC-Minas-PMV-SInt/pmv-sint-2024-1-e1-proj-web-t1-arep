@@ -9,11 +9,11 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Requisito atendido
 
-[RF-02 O sistema deve possuir um sistema de cadastro / login]
-[RF-08 Permitir que o usuário possa criar um anúncio de república]
-[RF-17 O sistema deve ser capaz de filtrar postagens por interesses]
-[RF-19 O sistema deve considerar um destaque para usuários bem avaliados]
-[RF-05 O sistema deve possuir o cadastro de perfis de usuário]
+[RF-02 O sistema deve possuir um sistema de cadastro / login]<br>
+[RF-08 Permitir que o usuário possa criar um anúncio de república]<br>
+[RF-17 O sistema deve ser capaz de filtrar postagens por interesses]<br>
+[RF-19 O sistema deve considerar um destaque para usuários bem avaliados]<br>
+[RF-05 O sistema deve possuir o cadastro de perfis de usuário]<br>
 
 
 #### Artefatos da funcionalidade
@@ -28,8 +28,8 @@ telainicial.css
 
 #### Requisito atendido
 
-[RF-06	O sistema deve possuir um sistema de contato via formulário]
-
+[RF-06	O sistema deve possuir um sistema de contato via formulário]<br>
+[RF-04 O cadastro de repúblicas deve permitir inserir a localização]<br>
 #### Artefatos da funcionalidade
 
 telainicial.html<br>
@@ -39,7 +39,7 @@ telainicial.css
 
 #### Requisito atendido
 
-[RF-20 O sistema deve ter a funcionalidade de logout]
+[RF-20 O sistema deve ter a funcionalidade de logout]<br>
 
 
 #### Artefatos da funcionalidade
@@ -53,7 +53,7 @@ login.css
 
 #### Requisito atendido
 
-[RF-11 Permitir que o usuario possa alterar suas informações pessoais na tela de perfil]
+[RF-11 Permitir que o usuario possa alterar suas informações pessoais na tela de perfil]<br>
 
 
 #### Artefatos da funcionalidade
@@ -66,10 +66,10 @@ pesquisa_logado.css
 
 #### Requisito atendido
 
-[RF-20 O sistema deve ter a funcionalidade de logout]
-[RF-21 O sistema deve conter uma tela de perfil]
-[RF-22 O sistema deve conter uma seção de configurações]
-[RF-23 O sistema deve permitir que o usuário altere suas informações de cadastro]
+[RF-20 O sistema deve ter a funcionalidade de logout]<br>
+[RF-21 O sistema deve conter uma tela de perfil]<br>
+[RF-22 O sistema deve conter uma seção de configurações]<br>
+[RF-23 O sistema deve permitir que o usuário altere suas informações de cadastro]<br>
 
 
 #### Artefatos da funcionalidade
@@ -82,10 +82,10 @@ telaperfil.css
 
 #### Requisito atendido
 
-[RF-03 O cadastro de repúblicas deve possuir um sistema de filtros, fotos e descrição]
-[RF-04 O cadastro de repúblicas deve permitir inserir a localização]
-[RF-01 O sistema deve possibilitar o cadastro de repúblicas]
-[RF-15	Permitir que o usuário possa publicar fotos da república]
+[RF-03 O cadastro de repúblicas deve possuir um sistema de filtros, fotos e descrição]<br>
+[RF-04 O cadastro de repúblicas deve permitir inserir a localização]<br>
+[RF-01 O sistema deve possibilitar o cadastro de repúblicas]<br>
+[RF-15	Permitir que o usuário possa publicar fotos da república]<br>
 
 
 #### Artefatos da funcionalidade
