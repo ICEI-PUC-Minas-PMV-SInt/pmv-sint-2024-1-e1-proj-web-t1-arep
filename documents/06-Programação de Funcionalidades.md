@@ -13,6 +13,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 [RF-08 Permitir que o usuário possa criar um anúncio de república]
 [RF-17 O sistema deve ser capaz de filtrar postagens por interesses]
 [RF-19 O sistema deve considerar um destaque para usuários bem avaliados]
+[RF-05 O sistema deve possuir o cadastro de perfis de usuário]
 
 
 #### Artefatos da funcionalidade
@@ -38,7 +39,7 @@ telainicial.css
 
 #### Requisito atendido
 
-[]
+[RF-20 O sistema deve ter a funcionalidade de logout]
 
 
 #### Artefatos da funcionalidade
@@ -85,6 +86,7 @@ telaperfil.css
 [RF-04 O cadastro de repúblicas deve permitir inserir a localização]
 [RF-01 O sistema deve possibilitar o cadastro de repúblicas]
 [RF-15	Permitir que o usuário possa publicar fotos da república]
+
 
 #### Artefatos da funcionalidade
 
