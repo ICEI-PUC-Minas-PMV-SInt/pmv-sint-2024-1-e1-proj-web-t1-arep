@@ -18,8 +18,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Artefatos da funcionalidade
 
-telainicial.html<br>
-telainicial.css
+tela_inicial.html<br>
+tela_inicial.css
 
 ### Tela de Anúncio 
 
@@ -36,8 +36,8 @@ telainicial.css
 
 #### Artefatos da funcionalidade
 
-telainicial.html<br>
-telainicial.css
+tela_anuncio.html<br>
+tela_anuncio.css
 
 ### Tela de Login
 
@@ -48,8 +48,8 @@ telainicial.css
 
 #### Artefatos da funcionalidade
 
-login.html<br>
-login.css
+tela_login.html<br>
+tela_login.css
 
 
 ### Tela Cadastro
@@ -63,8 +63,8 @@ login.css
 
 #### Artefatos da funcionalidade
 
-pesquisa_logado.html<br>
-pesquisa_logado.css
+tela_cadastro.html<br>
+tela_cadastro.css
 
 ### Tela de Perfil 
 
@@ -79,10 +79,10 @@ pesquisa_logado.css
 
 #### Artefatos da funcionalidade
 
-telaperfil.html<br>
-telaperfil.css
+tela_perfil.html<br>
+tela_perfil.css
 
-### Tela de Anuciar 
+### Tela de Anúnciar 
 
 
 #### Requisito atendido
@@ -95,6 +95,6 @@ telaperfil.css
 
 #### Artefatos da funcionalidade
 
-telaperfil.html<br>
-telaperfil.css
+tela_anuciar.html<br>
+tela_anuciar.css
 
