@@ -77,8 +77,8 @@ telaperfil.css
 
 #### Requisito atendido
 
-[]
-
+[RF-03 O cadastro de repúblicas deve possuir um sistema de filtros, fotos e descrição]
+[RF-04 O cadastro de repúblicas deve permitir inserir a localização]
 
 #### Artefatos da funcionalidade
 
