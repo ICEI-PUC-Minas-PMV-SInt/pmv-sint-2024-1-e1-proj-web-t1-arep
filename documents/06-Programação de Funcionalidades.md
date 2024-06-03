@@ -41,7 +41,7 @@ tela_anuncio.html<br>
 tela_anuncio.css
 
 ### Tela de Login
-
+<img title="login" src="https://i.imgur.com/DvWGD9F.jpeg">
 #### Requisito atendido
 
 [RF-02 O sistema deve possuir um sistema de cadastro / login]<br>
