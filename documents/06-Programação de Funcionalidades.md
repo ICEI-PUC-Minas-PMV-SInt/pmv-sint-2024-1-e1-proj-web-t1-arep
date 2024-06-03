@@ -26,8 +26,8 @@ telainicial.css
 
 #### Requisito atendido
 
-[]<br>
-[]
+[RF-06 O sistema deve possuir um sistema de contato entre repúblicas e perfis de usuário e vice versa]<br>
+[RF-07	O sistema deve solicitar autorização da localização do usuário]
 
 #### Artefatos da funcionalidade
 
