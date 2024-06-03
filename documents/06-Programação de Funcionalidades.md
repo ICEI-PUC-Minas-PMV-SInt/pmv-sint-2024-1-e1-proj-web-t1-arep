@@ -46,7 +46,7 @@ login.html<br>
 login.css
 
 
-### Tela Inicial Logado
+### Tela Cadastro
 
 
 #### Requisito atendido
