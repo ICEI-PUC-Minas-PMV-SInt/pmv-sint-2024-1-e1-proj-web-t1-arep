@@ -17,3 +17,12 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 telainicial.html<br>
 telainicial.css
 
+### Tela de Anúncio 
+
+<img title="anuncio" src="https://i.imgur.com/jRZYqjR.jpeg">
+
+
+#### Requisito atendido
+
+[]<br>
+[]
