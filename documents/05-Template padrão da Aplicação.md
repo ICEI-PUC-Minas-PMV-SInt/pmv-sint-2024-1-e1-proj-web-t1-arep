@@ -32,6 +32,9 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 <img title="sobrenos" src="https://i.imgur.com/ozL0GE7.png">
 
+### Tela Privacidade
+
+<img title="privacidade" src="https://i.imgur.com/lESkAit.png">
 
 
 > **Links Úteis**:
