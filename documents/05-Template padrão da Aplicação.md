@@ -6,8 +6,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela Inicial
 
-<img title="tela inicial" src="https://i.imgur.com/6xIUqNR.jpeg"></td>
-
+<img title="tela inicial" src="https://i.imgur.com/4IFNHf3.png"></td> 
 ### Tela de Anúncio 
 
 <img title="anuncio" src="https://i.imgur.com/jRZYqjR.jpeg">
