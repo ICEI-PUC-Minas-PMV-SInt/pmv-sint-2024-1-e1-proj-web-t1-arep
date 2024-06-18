@@ -18,27 +18,27 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 
+### Instruções de acesso
 
-#### Estrutura de Dados
+##### Para efetuar o cadastro, o usuário deve preencher o formulário exibido na tela abaixo. Após enviar e confirmar os dados, ele poderá acessar o sistema realizando o login.
 
-[Caso exista estrutura de dados, adicione aqui]
+### Tela Cadastro
 
+<img title="cadastro" src="https://i.imgur.com/Sha7E53.png">
 
-#### Instruções de acesso
+##### Para realizar o cadastro, o usuário precisa preencher o formulário descrito na tela abaixo. Após a confirmação, ele poderá fazer login no sistema.
 
-[Adicione as orientações de acesso à funcionalidade]
+### Tela de Login
+
+<img title="login" src="https://i.imgur.com/LTdNfGm.png">
+
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+* Alana Alves Maia
+* Hygor Queiroz Carvalho
+* Lavi Solace Silva Costa
+* Maria Fernanda Tenório Lins
+* Rodrigo Alexandre Silva Campos Pires
 
