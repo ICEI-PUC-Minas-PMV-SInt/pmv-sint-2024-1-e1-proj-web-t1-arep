@@ -34,10 +34,3 @@ Os testes funcionais realizados no site estão descritos a seguir.
    |Passos|<ol><li>Acessar o navegador.</li><li>Informar o endereço do site.</li><li>Visualizar a página de login.</li><li>Efetuar o login.</li><li>Acessar a página inicial correspondente à sua função de uso.</li><li>Preencher informações da república disponivel.</li><li>Subir fotos das repúblicas</li><li>Expecificar o perfil de moradores aceitos na republica.</li><li>Efetuar logoff.</li></ol>|
    |Critérios de Êxito|<ul><li>Após o login a página inicial correspondente precisa ser carregada.</li><li>A página deve exibir uma tela de anúcio com opção de adicionar uma nova república.</li><li>A área do usuário deve possibilitar a alteração dos dados e localização para verificar a região pertencente da república.</li><li>A página carregada deve ter sempre acesso ao botão de log out.</li><li>Após o log out, a página de login deve ser novamente carregada.</li></ul>|
    
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
