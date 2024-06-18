@@ -14,7 +14,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela de Login
 
-<img title="login" src="https://i.imgur.com/DvWGD9F.jpeg">
+<img title="login" src="https://i.imgur.com/LTdNfGm.png">
 
 ### Tela Cadastro
 
