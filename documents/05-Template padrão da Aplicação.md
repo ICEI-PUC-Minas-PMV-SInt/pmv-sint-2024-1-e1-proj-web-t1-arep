@@ -20,12 +20,11 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 <img title="cadastro" src="https://i.imgur.com/Sha7E53.png">
 
-
 ### Tela de Perfil 
 
 <img title="perfil" src="https://i.imgur.com/LILXlKk.png"> 
 
-### Tela de Anúnciar 
+### Tela de Cadatro de República 
 
 <img title="anunciar" src="https://i.imgur.com/0OcJA0n.png">
 
