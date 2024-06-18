@@ -111,7 +111,7 @@ Nossas pesquisas identificaram alguns players neste mercado. No entanto, algumas
   </tr>
     <tr>
     <tr>
-    <td><img title="LeticiaRocca" src="https://r2.easyimg.io/582mq6vv0/leticia.jpg"/></td> <!--nome / foto colocar endereço url -->
+    <td><img title="LeticiaRocca" src="https://i.imgur.com/eIgffkV.png"/></td> <!--nome / foto colocar endereço url -->
     <td>Letícia Rocca</td> <!-- nome -->
     <td>
       <ul>
