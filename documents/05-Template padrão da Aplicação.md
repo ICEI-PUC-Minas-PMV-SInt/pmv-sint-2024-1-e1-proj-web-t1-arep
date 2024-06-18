@@ -6,12 +6,14 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela Inicial
 
-<img title="tela inicial" src="https://i.imgur.com/4IFNHf3.png"></td> 
+<img title="tela inicial" src="https://i.imgur.com/4IFNHf3.png">
+
 ### Tela de Anúncio 
 
-<img title="anuncio" src="https://i.imgur.com/jRZYqjR.jpeg">
+<img title="anuncio" src="https://i.imgur.com/oOpYgBO.png">
 
 ### Tela de Login
+
 <img title="login" src="https://i.imgur.com/DvWGD9F.jpeg">
 
 ### Tela Cadastro
