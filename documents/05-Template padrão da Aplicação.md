@@ -18,7 +18,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela Cadastro
 
-<<img title="cadastro" src="https://i.imgur.com/It26H0N.jpeg">
+<<img title="cadastro" src="https://i.imgur.com/Sha7E53.png">
 
 
 ### Tela de Perfil 
